@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <meta name="google-site-verification" content="9ETIOAI62eXSHaujmQXCOtaXWkUksUpUq2jDVs7N_H4" />
 <body>
     <header>
-        <h1>Jermaine Wiggins</h1>
-        <p>This is to showcase my work done in school and random projects.</p>
+        <h1>I'm Jermaine Wiggins</h1>
+        <p>This page is to showcase my work done in school and random projects.</p>
     </header>
     <section>
         <h2>Projects</h2>
