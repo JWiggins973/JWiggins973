@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<html>
-  <head>
-    <title>Welcome to my page</title>
     <meta name="google-site-verification" content="9ETIOAI62eXSHaujmQXCOtaXWkUksUpUq2jDVs7N_H4" />
-  </head>
-  <body>
-    This will showcase random projects and select assignments at my University
-  </body>
-</html>
+ 
 
