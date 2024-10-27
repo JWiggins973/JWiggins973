@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!doctype>
+
 <html>
   <head>
     <title>Welcome to my page</title>
