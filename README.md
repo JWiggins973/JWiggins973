@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="google-site-verification" content="9ETIOAI62eXSHaujmQXCOtaXWkUksUpUq2jDVs7N_H4" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta name="google-site-verification" content="9ETIOAI62eXSHaujmQXCOtaXWkUksUpUq2jDVs7N_H4" />
     <title>Jermaine Wiggins' GitHub Profile</title>
     <style>
         body {
