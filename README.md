@@ -1,33 +1,39 @@
-## Hi there!!! 👋
+# Jermaine Wiggins
+Computer Science graduate focused on C++, systems-level development, and data engineering.
 
-<!--
-**JWiggins973/JWiggins973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Projects
+- [ABCU Course Planner](https://github.com/JWiggins973/course-selector) — C++/Angular/TypeScript, topological sort, prerequisite visualization
+- [Animal Shelter Dashboard](https://github.com/JWiggins973/animal-shelter-dashboard) — Python/MongoDB, CRUD operations, aggregation pipeline
+- [SNHU Apocalypse](https://github.com/JWiggins973/text-adventure-python) — Python OOP, Gemini AI integration
+- [Movie Suggester](https://github.com/JWiggins973/MoviesWebApp) — Angular/TypeScript, TMDB API, Claude AI integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-   
-</head>
-<meta name="google-site-verification" content="9ETIOAI62eXSHaujmQXCOtaXWkUksUpUq2jDVs7N_H4" />
-<body>
-    <header>
-        <h1>I'm Jermaine Wiggins</h1>
-        <p>This page is to showcase my work done in school and random projects.</p>
-    </header>
-    <section>
-        <h2>Projects</h2>
-        <p>Check back soon for more details on my projects!</p>
-    </section>
-</body>
-</html>
+---
 
- 
+## Coursework
+- [Deep Q-Learning Maze Agent](https://github.com/JWiggins973/SNHU-CS-370) — Python/Keras/TensorFlow, experience replay, epsilon-greedy strategy
+- [Arduino TMP36 Temperature Sensor](https://github.com/JWiggins973/Arduino-tmp36-temperature-sensor) — C++/Arduino, ADC conversion, threshold alerts
+- [SNHU CS330](https://github.com/JWiggins973/SNHU-CS330) — OpenGL, 3D graphics, lighting and texturing
 
+---
+
+## LeetCode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Jwiggins973?theme=dark&ext=heatmap)](https://leetcode.com/Jwiggins973/)  
+Focused on consistency and sharpening problem solving fundamentals.
+
+---
+
+## Tech Stack
+- C++
+- Python
+- TypeScript / Angular
+- JavaScript
+- MongoDB
+- Arduino
+- OpenGL
+
+---
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/jermaine-wiggins-64a47a11b/
