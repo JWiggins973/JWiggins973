@@ -4,15 +4,15 @@ Computer Science graduate focused on C++, systems-level development, and data en
 ---
 
 ## Projects
+- [NBA Player ppg Predictor](https://github.com/JWiggins973/nba-predictor) - Pyhton, ML, FastApi, React
 - [ABCU Course Planner](https://github.com/JWiggins973/course-selector) — C++/Angular/TypeScript, topological sort, prerequisite visualization
-- [Animal Shelter Dashboard](https://github.com/JWiggins973/animal-shelter-dashboard) — Python/MongoDB, CRUD operations, aggregation pipeline
-- [SNHU Apocalypse](https://github.com/JWiggins973/text-adventure-python) — Python OOP, Gemini AI integration
+- [SNHU Apocalypse](https://github.com/JWiggins973/text-adventure-python) — Python OOP, Gemini AI for image generation
 - [Movie Suggester](https://github.com/JWiggins973/MoviesWebApp) — Angular/TypeScript, TMDB API, Claude AI integration
 
 ---
 
 ## Coursework
-- [Deep Q-Learning Maze Agent](https://github.com/JWiggins973/SNHU-CS-370) — Python/Keras/TensorFlow, experience replay, epsilon-greedy strategy
+- [Animal Shelter Dashboard](https://github.com/JWiggins973/animal-shelter-dashboard) — Python/MongoDB, CRUD operations, aggregation pipeline
 - [Arduino TMP36 Temperature Sensor](https://github.com/JWiggins973/Arduino-tmp36-temperature-sensor) — C++/Arduino, ADC conversion, threshold alerts
 - [SNHU CS330](https://github.com/JWiggins973/SNHU-CS330) — OpenGL, 3D graphics, lighting and texturing
 
