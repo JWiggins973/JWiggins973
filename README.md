@@ -36,4 +36,4 @@ Focused on consistency and sharpening problem solving fundamentals.
 ---
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/jermaine-wiggins-64a47a11b/
+- LinkedIn: https://www.linkedin.com/in/jermainewiggins973
