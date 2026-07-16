@@ -25,6 +25,8 @@ Focused on consistency and sharpening problem solving fundamentals.
 ---
 
 ## Tech Stack
+## Tech Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWiggins973&layout=compact)](https://github.com/JWiggins973)
 - C++
 - Python
 - TypeScript / Angular
