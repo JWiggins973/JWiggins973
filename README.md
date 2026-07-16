@@ -12,7 +12,7 @@ Computer Science graduate focused on C++, systems-level development, and data en
 
 ## Coursework
 - [Animal Shelter Dashboard](https://github.com/JWiggins973/animal-shelter-dashboard) - Python/MongoDB, CRUD operations, aggregation pipeline
-- [ABCU Course Planner](https://github.com/JWiggins973/course-selector) - C++/Angular/TypeScript, topological sort, prerequisite visualization
+- [ABCU Course Planner](https://github.com/JWiggins973/course-selector) - C++/Angular/TypeScript, Data structure and algorithms to sort and display courses
 - [Arduino TMP36 Temperature Sensor](https://github.com/JWiggins973/Arduino-tmp36-temperature-sensor) - C++/Arduino, ADC conversion, threshold alerts
 - [SNHU CS330](https://github.com/JWiggins973/SNHU-CS330) - OpenGL, 3D graphics, lighting and texturing
 
@@ -25,15 +25,14 @@ Focused on consistency and sharpening problem solving fundamentals.
 ---
 
 ## Tech Stack
-## Tech Stack
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JWiggins973&layout=compact)](https://github.com/JWiggins973)
-- C++
-- Python
-- TypeScript / Angular
-- JavaScript / React
-- MongoDB
-- Arduino
-- OpenGL
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=JWiggins973&layout=compact)](https://github.com/JWiggins973)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
