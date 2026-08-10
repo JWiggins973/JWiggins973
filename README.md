@@ -4,6 +4,7 @@ Computer Science graduate focused on C++, systems-level development, and data en
 ---
 
 ## Projects
+- [Sound Monitor](https://github.com/JWiggins973/sound-and-motion-sensor) - C#, C++, .NET, ESP32, Playwright
 - [NBA Player ppg Predictor](https://github.com/JWiggins973/nba-predictor) - Pyhton, ML, FastApi, React
 - [Embedded event simulator](https://github.com/JWiggins973/embedded-event-simulator) - Arduino, C++, python, pytest, click (Command Line Interface Creation Kit)
 - [Movie Suggester](https://github.com/JWiggins973/MoviesWebApp) - Angular/TypeScript, TMDB API, Claude AI integration
